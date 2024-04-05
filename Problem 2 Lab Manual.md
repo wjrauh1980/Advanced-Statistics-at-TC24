@@ -1,4 +1,6 @@
 <video width="320" height="240" controls>
-  <source src="https://raw.githubusercontent.com/wjrauh1980/Advanced-Statistics-at-TC24/main/Problem2_Videos/1%20-%20Connect%20to%20data.mp4" type="video/mp4">
+  <source src="[https://raw.githubusercontent.com/wjrauh1980/Advanced-Statistics-at-TC24/main/Problem2_Videos/1%20-%20Connect%20to%20data.mp4](https://private-user-images.githubusercontent.com/165797026/320119013-7be26ce8-0cd8-4df5-86d6-4f42f8ff1c55.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzNDYzMzMsIm5iZiI6MTcxMjM0NjAzMywicGF0aCI6Ii8xNjU3OTcwMjYvMzIwMTE5MDEzLTdiZTI2Y2U4LTBjZDgtNGRmNS04NmQ2LTRmNDJmOGZmMWM1NS5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwNVQxOTQwMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZGI0Y2ZiNDk5YjEyYTg5YjUyZjRkYzcyZDg1MTNlYjA2ZmFlOGJjMmY5OWU1NDFjMmYwM2RlYWY4NjM1NzVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.79Cra5opGjPIaJt4kOyk7vzut8iTprECtWBM3Dj7D4Y)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
